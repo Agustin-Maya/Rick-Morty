@@ -1,0 +1,31 @@
+form{
+  margin-top: 150px;
+}
+
+label {
+  color: rgb(234, 208, 208);
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 15px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: rgb(95, 218, 177);
+  color: rgb(128, 0, 0);
+  border: 0px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 10px;
+  margin: 25px 0px 25px 0px;
+  cursor: "pointer";
+}
+
+p{
+  color: rgb(255, 255, 255);
+}

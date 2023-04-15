@@ -1,0 +1,36 @@
+@import '../src/components/style/normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+
+/* :root{
+  --color-azul-marino: #023047;
+  --h1-color: var(--color-azul-marino);
+  --color-clarito: #dee2e6;
+  --btn-background-color: var(--color-azul-marino);
+  --btn-color: var(--color-clarito);
+  --color-rojito: #e63946;
+  --btn-close-color: var(--color-rojito)
+
+
+
+
+  font-family: 'Montserrat', sans-serif;;
+} */
+/* h2{
+  font-weight: 400;
+  color: var(--color-azul-marino);
+} */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+  background-image: url('https://i.pinimg.com/originals/84/22/72/84227250878667a0d8fd33492976e5e4.jpg');
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */

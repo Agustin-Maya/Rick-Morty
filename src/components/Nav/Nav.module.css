@@ -1,0 +1,29 @@
+nav{
+    background-color:rgba(7, 7, 113, 0.619);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    margin-bottom: 20px;
+}
+
+/* nav img{
+    filter: hue-rotate(100deg);
+} */
+
+.links{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    background-color: red;
+    padding: 10px;
+    margin: 0px 15px;
+}
+.links:hover{
+    color: red;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}

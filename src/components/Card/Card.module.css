@@ -1,0 +1,42 @@
+.card{
+    display: inline-block;
+    background-color: rgb(39, 29, 104);
+    border-radius: 10px;
+    color: white;
+    overflow: hidden;
+    margin: 25px 0px;
+}
+
+.btn{
+    position: relative;
+    right: -120px;
+    top: 10px;
+    background-color: rgb(248, 9, 9);
+    color: white;
+    border: 0px;
+    width: 30px;
+    height: 30px;
+    border-radius: 9999px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.name{
+    color: white;
+    text-decoration: none;
+}
+
+.species{
+    /* display: inline-block; */
+    font-size: 16px;
+    color: rgb(181, 236, 185);
+    margin-right: 15px;
+    margin-top: -10px;
+}
+
+.gender{
+    /* display: inline-block; */
+    font-size: 16px;
+    color: rgb(181, 236, 185);
+    margin-top: -10px;
+}
